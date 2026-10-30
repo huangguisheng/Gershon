@@ -1,0 +1,21 @@
+﻿# Windows
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Node
+node_modules/
+npm-debug.log*
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Editors
+.vscode/
+.idea/
+
+# 环境与密钥
+.env
+*.key
